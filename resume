@@ -1,0 +1,133 @@
+{
+  "name": "Siddhant Kashyap",
+  "contact": {
+    "email": "siddhantkashyap18@gmail.com",
+    "phone": "8340238925",
+    "nationality": "Indian",
+    "linkedin": "LinkedIn",
+    "github": "Github"
+  },
+  "skills": {
+    "programming_languages": ["Python", "SQL", "Java", "C++"],
+    "software_libraries": ["TensorFlow", "OpenCV", "Keras", "NumPy", "Pandas", "Scikit Learn", "PyTorch"],
+    "data_visualization": ["Matplotlib", "Seaborn"],
+    "developer_tools": ["Android Studio", "VSCode", "Jupyter Notebook", "PyCharm", "PowerBI", "Excel", "BlueJ", "GitHub", "Figma", "Cisco Packet Tracer"],
+    "soft_skills": ["Communication", "Creative Thinking", "Team Work", "Prioritization", "Product Development", "Leadership"],
+    "technologies": ["Google Firebase", "Android SDK"]
+  },
+  "education": [
+    {
+      "institution": "SRM Institute of Science and Technology",
+      "degree": "B.Tech Computer Science and Engineering Specialization in Information Technology",
+      "location": "Chennai, Tamil Nadu, India",
+      "duration": "Sep 2021 - present",
+      "cgpa": "9.35 (upto 6th Semester)"
+    },
+    {
+      "institution": "Carmel Junior College",
+      "qualification": "ISC XII Standard",
+      "location": "Jamshedpur, Jharkhand, India",
+      "duration": "Jul 2021",
+      "score": "94%"
+    },
+    {
+      "institution": "Carmel Junior College",
+      "qualification": "ICSE X Standard",
+      "location": "Jamshedpur, Jharkhand, India",
+      "duration": "May 2019",
+      "score": "94%"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Bharat Intern",
+      "role": "Data Science Intern",
+      "duration": "Feb 2024 - Mar 2024",
+      "location": "Remote",
+      "responsibilities": [
+        "Developed a classification model with 94% precision for spam detection and animal breed segregation."
+      ]
+    },
+    {
+      "company": "Google in assoc. AICTE",
+      "role": "Android Developer Intern",
+      "duration": "Jan 2024 - Mar 2024",
+      "location": "Remote",
+      "responsibilities": [
+        "Excelled in an AICTE-accredited internship, receiving an Excellent grade.",
+        "Gained proficiency in Kotlin, SQL database management, and Android Development, designing cutting-edge mobile solutions."
+      ]
+    },
+    {
+      "company": "Tata Steel",
+      "role": "Data Analyst Intern",
+      "duration": "Jun 2023 - Jul 2023",
+      "location": "Jamshedpur, Jharkhand",
+      "responsibilities": [
+        "Acquired data analysis concepts and facilitated their use in assessing data, segmentation, and exploratory analysis."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "CampusSpace",
+      "description": "Implemented efficient multi-facility booking, real-time availability updates, and customizable booking rules to streamline events and optimize resource utilization.",
+      "type": "Android Application"
+    },
+    {
+      "name": "SMS Spam Classification Model",
+      "description": "Engineered an NLP model with 96% precision to differentiate spam from legitimate texts, utilizing text preprocessing, feature engineering, and deployment via Flask or Streamlit.",
+      "type": "ML Model"
+    },
+    {
+      "name": "Application of Data Analytics",
+      "description": "Conducted comprehensive data analysis from collection to reporting, driving insightful, data-driven decision-making for enhanced project understanding.",
+      "type": "Internship Report"
+    },
+    {
+      "name": "Cat vs Dog Classifier Model",
+      "description": "Created a CNN model with 94% precision for classifying cats and dogs, improving image recognition; skilled in TensorFlow and PyTorch, and applying CNNs to practical image analysis.",
+      "type": "ML Model"
+    }
+  ],
+  "achievements": [
+    "Coordinated and volunteered for 21 placement drives for companies, ensuring organized and efficient hiring processes as part of the student placement team.",
+    "Ranked top 5 in Smart Campus Hackathon '23, secured ₹60000 bounty for pioneering innovative college facility management software.",
+    "Coached 30+ differently-abled children in the field of Computer Applications for modern sustainability."
+  ],
+  "certificates": [
+    {
+      "name": "Excel For Data Analysis",
+      "institution": "Coursera"
+    },
+    {
+      "name": "SQL and Relational Databases",
+      "institution": "IBM"
+    },
+    {
+      "name": "CCNA v7: Introduction to Networks",
+      "institution": "Cisco Networking Academy"
+    },
+    {
+      "name": "CCNA v7: Enterprise Networking, Security, and Automation",
+      "institution": "Cisco Networking Academy"
+    },
+    {
+      "name": "CCNA v7: Switching, Routing, and Wireless Essentials",
+      "institution": "Cisco Networking Academy"
+    },
+    {
+      "name": "Python Essentials 1",
+      "institution": "Cisco Networking Academy"
+    },
+    {
+      "name": "Python Essentials 2",
+      "institution": "Cisco Networking Academy"
+    },
+    {
+      "name": "Analytics Certification",
+      "institution": "Google"
+    }
+  ]
+}
+``` &#8203;:citation[oaicite:0]{index=0}&#8203;
